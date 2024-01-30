@@ -5,7 +5,7 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YouTube from Play Store.  
 
 Changelog:  
-CLI: AbakNacchan/revanced-cli-1.0.0-all.jar  
+CLI: ReVanced/revanced-cli-4.4.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.2.1.apk  
 Patches: ReVanced/revanced-patches-4.0.2.jar  
 [Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.0.2)  
