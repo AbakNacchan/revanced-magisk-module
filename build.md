@@ -1,4 +1,4 @@
-YouTube: 19.05.36  
+YouTube: 19.06.36  
 Music: 6.39.50  
 Twitter: 10.28.0-release.0  
 
