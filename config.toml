@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 # you can use rvmm-config-gen to generate a config
 
 [Music]
-# enabled = false
+enabled = false
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
@@ -20,12 +20,12 @@ build-mode = "both"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "both"
-version = "19.05.36"
+version = "19.07.40"
 # included-patches = "'Enable slide to seek' 'Remove player controls background'"
 # excluded-patches = "'Custom branding name YouTube' 'Announcements' 'Enable debugging' 'Ambient mode switch'"
 
 [Twitter]
-# enabled = false
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 arch = "arm64-v8a"
 version = "auto"
