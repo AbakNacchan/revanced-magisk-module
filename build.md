@@ -1,4 +1,4 @@
-Music: 6.44.52  
+Music: 6.44.54  
 YouTube: 19.09.37  
 Twitter: 10.33.0-release.0  
 - To use YouTube and YouTube Music without root, install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases).  
@@ -6,8 +6,8 @@ Twitter: 10.33.0-release.0
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.5.0-all.jar  
-Integrations: AbakNacchan/revanced-integrations-1.5.0-dev.5.apk  
-Patches: AbakNacchan/revanced-patches-4.4.0-dev.8.jar  
-[Changelog](https://github.com/AbakNacchan/ReVanced-patches/releases/tag/vdev.8)  
+Integrations: ReVanced/revanced-integrations-1.5.0-dev.8.apk  
+Patches: ReVanced/revanced-patches-4.4.0-dev.11.jar  
+[Changelog](https://github.com/ReVanced/ReVanced-patches/releases/tag/vdev.11)  
   
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W8VRK0S)  
