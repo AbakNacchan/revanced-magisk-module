@@ -1,4 +1,4 @@
-Music: 6.44.54  
+Music: 6.45.54  
 YouTube: 19.09.37  
 Twitter: 10.33.0-release.0  
 - To use YouTube and YouTube Music without root, install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases).  
