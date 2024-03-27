@@ -1,5 +1,5 @@
-YouTube: 19.09.37  
 Music: 6.45.54  
+YouTube: 19.09.37  
 Twitter: 10.34.0-release.0  
 - To use YouTube and YouTube Music without root, install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases).  
 - To detach YouTube and YouTube Music from Play Store, use the [zygisk-detach](https://github.com/j-hc/zygisk-detach) module.  
